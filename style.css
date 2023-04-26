@@ -18,7 +18,7 @@ header h1 {
 }
 
 header img {
-  max-width: 100%;
+  width: 200px; /* set the width to 200 pixels */
   height: auto;
   margin-right: 1em;
 }
